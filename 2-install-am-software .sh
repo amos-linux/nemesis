@@ -128,6 +128,7 @@ PKGS=(
 'network-manager-applet'
 'networkmanager-openvpn'
 'paru-bin'
+'pcmanfm-gtk3'
 'pragha'
 'pavucontrol'
 'playerctl'
