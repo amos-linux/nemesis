@@ -55,6 +55,7 @@ sh 12-btrfs-setup*
 sh 13-install-all-fonts-needed-for-conkys*
 sh 16-arco*
 sh 16-eos*
+sh 16-amos*
 sh 18-skel*
 # change shell to zsh
 sudo chsh $USER -s /bin/zsh
